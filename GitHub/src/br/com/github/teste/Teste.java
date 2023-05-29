@@ -6,6 +6,7 @@ public class Teste {
 		
 		
 		System.out.println("OI");
+		System.out.println("Teste");
 
 	}
 
